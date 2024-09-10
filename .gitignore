@@ -3,6 +3,11 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 /**/src/com/edu/http/
+**/src/lombokEdu.java
+**/resources/
+**/.idea
+**/web/
+**/http-servlet-starter.iml
 ### Eclipse ###
 .apt_generated
 .classpath
